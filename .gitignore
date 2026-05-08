@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vector DB
+vectorstore/
+
+# Data files
+data/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
